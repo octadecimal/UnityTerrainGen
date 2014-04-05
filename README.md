@@ -1,7 +1,7 @@
 UnityTerrainGen
 ===============
 
-Terrain generator for Unity4 with support for massive terrains.
+Terrain generator for Unity4 with support for massive terrains with 16-bit height data and 4 splat maps.
 
 
 http://www.youtube.com/watch?v=QNTPaVKWOBM
